@@ -24,7 +24,7 @@ The goal is to provide insights that help stakeholders **reduce delays, lower co
 ## **Process**
 
 - **Verified and cleaned shipment records** to remove missing values, standardize data types, and ensure consistency.
-- Processes and validated **1,968 shipment records** across multiple destinations and carriers.
+- Processed and validated **1,968 shipment records** across multiple destinations and carriers.
 - Engineered new fields such as **Transit Days** and categorized delivery outcomes (Delivered, Delayed, In Transit, Lost, Returned).
 - Conducted **exploratory and trend analysis** to uncover cost drivers, delay patterns, and carrier performance.
 - Built an **interactive Power BI dashboard** with KPIs, dynamic filters, and visualizations for **carrier efficiency, cost trends, and delivery reliability**.
